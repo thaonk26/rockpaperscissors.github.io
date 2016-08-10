@@ -1,0 +1,6 @@
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\paperScisorsRock\paperScisorsRock\bin\Debug\paperScisorsRock.exe.config
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\paperScisorsRock\paperScisorsRock\bin\Debug\paperScisorsRock.exe
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\paperScisorsRock\paperScisorsRock\bin\Debug\paperScisorsRock.pdb
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\paperScisorsRock\paperScisorsRock\obj\Debug\paperScisorsRock.exe
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\paperScisorsRock\paperScisorsRock\obj\Debug\paperScisorsRock.pdb
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\paperScisorsRock\paperScisorsRock\obj\Debug\paperScisorsRock.csprojResolveAssemblyReference.cache
